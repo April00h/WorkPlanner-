@@ -1,5 +1,15 @@
 # WorkPlanner
 
+## Table of Contents 
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Description](#description)
+- [User Story](#userstory)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+
+
 ## Description
 
 A browser-based calendar application enabling users to save events hourly. It employs dynamically updated HTML and CSS enhanced by jQuery for seamless interaction.
@@ -11,22 +21,6 @@ A browser-based calendar application enabling users to save events hourly. It em
 - I WANT to add important events to a daily planner
 - SO THAT I can manage my time effectively
 
-
-## Acceptance Criteria
-
-- GIVEN I am using a daily planner to create a schedule
-- WHEN I open the planner
-- THEN the current day is displayed at the top of the calendar
-- WHEN I scroll down
-- THEN I am presented with time blocks for standard business hours
-- WHEN I view the time blocks for that day
-- THEN each time block is color-coded to indicate whether it is in the past, present, or future
-- WHEN I click into a time block
-- THEN I can enter an event
-- WHEN I click the save button for that time block
-- THEN the text for that event is saved in local storage
-- WHEN I refresh the page
-- THEN the saved events persist
 
 
 ## Usage
@@ -42,8 +36,6 @@ Compatibility:
 Desktop and mobile compatible design.
 
 ## Screenshot
-![]()
+![Screenshot](assets/images/Screenshot.png)
 
-### Repo URL
-
-### Live Site URL
+### Deployed URL
